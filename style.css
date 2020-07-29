@@ -1,0 +1,13 @@
+.background {
+    background: orange;
+    width: 60%;
+    margin: 1em auto;
+    padding: 5em;
+    text-align: center;
+}
+
+.image {
+    width: 30%;
+    display: block;
+    margin: 3em auto
+}
